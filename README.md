@@ -9,7 +9,7 @@ can read entries from the database and visualises them
 1. Create a directory and copy the code
 2. Upload by FTP
 3. Go with SSH into the root directory of the project on out server
-4. composer install and yarn encore production (compilie assets once)
+4. 'composer install' and 'yarn encore production' (compile assets once)
 
 ## Configuration
 After installing change the Database Data:
